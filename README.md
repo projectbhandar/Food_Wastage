@@ -1,1 +1,1 @@
-This is A demo App
+Android mysql php with login and register 
